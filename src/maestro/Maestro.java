@@ -57,5 +57,4 @@ public class Maestro {
     public String toString() {
         return "Maestro{" + "nombre=" + nombre + ", apellidos=" + apellidos + ", materia=" + materia + ", numero=" + numero + ", id=" + id + '}';
     }
-    //sdsd
 }
